@@ -3,7 +3,7 @@ const PROFILE = {
   linkedin: "http://linkedin.com/in/panem-srikanth-a2582a236",
   github: "https://github.com/srikanth-panem",
   medium: "https://medium.com/@spanem90",
-  resume: "https://docs.google.com/document/d/1FsWNV2OtMperVXdxdpTyK9_BwsE89hGbpbi3oRVgRTY/edit?tab=t.0"
+  resume: "https://docs.google.com/document/d/137jZRVBjMpr8guc7sVBg668mxVIm2c_P_ptE4xvGswc/edit?tab=t.0"
 };
 
 function setHref(id, url) {
